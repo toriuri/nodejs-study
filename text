@@ -1,0 +1,20 @@
+Node.js - eging(Inovation Lab)
+
+- GUI : Graphic User Interface
+- CLUI : Command Line User Interface
+    pwd
+    ls
+    cd
+    node -v, --help
+    
+- Javascript 문법
+    Math.floor(수식) : 소숫점 이하 버림
+    Math.random() : 랜덤
+    'Hello world'.length : 길이
+    'Hello World'.replace('Hello', 'Hi') : 문자 치환
+    'Hello World'.replace('Hello', 'Hi').length
+    var 
+
+- Web Server for Chrome
+
+- nodejs로 web server 만들기
